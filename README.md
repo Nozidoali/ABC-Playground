@@ -16,5 +16,8 @@ run:
 python experiments/e1.py
 ```
 
+## Experiments
 
+### e1
+![](./figures/e1.png)
 
